@@ -7,5 +7,4 @@ Tech Stack used:
 - Three.js
 - Tensorflow.js
 - Keras
-- Python Flask
 

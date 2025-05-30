@@ -23,7 +23,7 @@ const usePlanetState = () => {
         water,
         temperature,
         oxygen,
-        #setWater,
+        setWater,
         setTemperature,
         setOxygen,
         habitability,

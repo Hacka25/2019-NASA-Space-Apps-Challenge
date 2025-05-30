@@ -11,7 +11,7 @@ function App() {
     return (
         <div className="main">
             <ThreeDView
-                water={planetState.water}
+                #water={planetState.water}
                 temperature={planetState.temperature}
                 oxygen={planetState.oxygen}
                 setShow2DView={setShow2DView}
